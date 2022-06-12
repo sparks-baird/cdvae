@@ -216,3 +216,6 @@ fabric.properties
 
 # .DS_Store
 .DS_Store
+hydra/singlerun/2022-06-11/mp_20/.hydra/config.yaml
+hydra/singlerun/2022-06-11/mp_20/.hydra/hydra.yaml
+hydra/singlerun/2022-06-11/mp_20/.hydra/overrides.yaml
