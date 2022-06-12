@@ -16,9 +16,9 @@
                 "expname=mp_20"
             ],
             "env": {
-                "PROJECT_ROOT": "C:/Users/sterg/Documents/GitHub/sparks-baird/cdvae",
-                "HYDRA_JOBS": "C:/Users/sterg/Documents/GitHub/sparks-baird/cdvae/hydra",
-                "WABDB_DIR": "C:/Users/sterg/Documents/GitHub/sparks-baird/cdvae/wabdb"
+                "PROJECT_ROOT": "/home/sgbaird/cdvae",
+                "HYDRA_JOBS": "/home/sgbaird/hydra",
+                "WABDB_DIR": "/home/sgbaird/wabdb"
             }
         }
     ]
